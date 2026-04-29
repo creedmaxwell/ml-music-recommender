@@ -58,6 +58,10 @@ This will:
 
 ## Pipeline Overview
 
+### Dataset used
+
+[Kaggle link](https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm?select=User+Listening+History.csv)
+
 ### Data Processing
 - **Load & Clean**: Remove sparse users/songs, handle missing values
 - **Negative Sampling**: Generate negative examples with configurable ratio
